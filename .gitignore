@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+**/data/indexes/
+**/data/sessions/
+**/modules/private-*/
+**/private_sources/
+*.zip
+.env
+.env.*
+.DS_Store

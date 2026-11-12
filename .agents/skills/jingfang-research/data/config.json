@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0-public-preview",
+  "default_mode": "comparison",
+  "persist_across_chats": false,
+  "evidence_scope": "demo_only_until_user_import",
+  "max_results_per_source": 4
+}

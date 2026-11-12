@@ -1,0 +1,31 @@
+{
+  "release": "0.2.0-public-preview",
+  "files": {
+    ".agents/skills/jingfang-research/LICENSE": "e843d98a2dea48b37271a4b06eb492e522403e8c0ee6369958025c901750c1f5",
+    ".agents/skills/jingfang-research/SKILL.md": "95d10de673710fe6ffe1071e64a7ff3434409c88aa36bd373606a0186e7ccdca",
+    ".agents/skills/jingfang-research/agents/openai.yaml": "767f83b46b088f19351d4aed7c3298a269194a6320786f6bc24b4386cba80e6d",
+    ".agents/skills/jingfang-research/data/config.json": "697c9f79dcef5a99e8af9fa7617b1e0c92887786e352c6d87d18c4c2fa190057",
+    ".agents/skills/jingfang-research/examples/demo_source.md": "7ed47d698400e1f46a2c27a204b69f0c10a5d79ac2babc10836abafb3db01cd9",
+    ".agents/skills/jingfang-research/modules/demo/evidence.jsonl": "abf5fd9bad49c0c09b07e5136f474bc06f6b66aa6249e4a83f912a6c5e609ce8",
+    ".agents/skills/jingfang-research/references/evidence-policy.md": "be2501e70e6d6d235be7a7b2f0f7692485a74096ec24d1591b1a18c8ea0d5efb",
+    ".agents/skills/jingfang-research/references/perspectives.md": "2bfbb8d39fbd6d87bc20b723c62af00797c9635e14be61ece32afdaed0302ddd",
+    ".agents/skills/jingfang-research/references/routing.md": "238f97f8fec866c23f2a2daf8645775f873b2bef6f353d96a535d7aa76332122",
+    ".agents/skills/jingfang-research/scripts/build_index.py": "59e189cfc020519e39151972ff6ba54b113125c01a2168276f717a822c531a17",
+    ".agents/skills/jingfang-research/scripts/import_evidence.py": "fcc18159cad70702b6b2427576a4e4c95cd57e1dfce5c0fd4f263486571c5b3c",
+    ".agents/skills/jingfang-research/scripts/research.py": "8a4c8614f3a86fc4d70c83891c57f11caf9017a8dc524ef0a7ab3bedadb0068c",
+    ".agents/skills/jingfang-research/scripts/retrieval.py": "ef8c665bf5380e1eec403aefc7e6b350ebd083f01a424a57d33b7f2a883c6c39",
+    ".agents/skills/jingfang-research/scripts/router.py": "d2502ddbecc057ee5d4df3d39f023941aba31b281b196971285d89f3567aed23",
+    ".agents/skills/jingfang-research/scripts/search_sources.py": "5949ad63c98fa8e001f8c598546c3b32aa5aa0b70c4b55b7497bf146f01f4f2a",
+    ".gitignore": "0f53eb7dc490aca4b9bd1571d6b0f0183d090723d0425c6a38b9fb30eaf7dc58",
+    "AGENTS.md": "368ba84fe0b7cc5a1d360b619a19ece20ea4e6367668a1128db2b117f453ea9b",
+    "LICENSE": "e843d98a2dea48b37271a4b06eb492e522403e8c0ee6369958025c901750c1f5",
+    "README.md": "c640603995cc8687482291e62ddbdb3c82c38cdb3d09c0b206238c0b2180c3f9",
+    "README.zh-TW.md": "d28ff68910af80656132dea0cd1eba61e003e94d1123da65f435d92e53ec4595",
+    "docs/DATA_IMPORT.md": "9036818cb9679ce766c82aa8fabdf859d00c9d466412854956597eb3871d3b49",
+    "docs/DISTRIBUTION.md": "36a2609b993099e919de7a5b3f79f26589d8dcb6b1c22ded334e76898510c6a8",
+    "docs/TEST_REPORT.md": "99ea67e024b34499c40bc00eac91fa61f4be3b075faf7053072c2a3f4f936357",
+    "scripts/install_skill.py": "a4b1d49aa979412d7c92ec49ae5c077a7f093db8bfef11730aa2d031164af32a",
+    "scripts/package_release.py": "58c007ac419c088b9af90d26ce91c4d0d4c5a05fc467d47bc290fb63e2d2a302",
+    "tests/test_public.py": "2e6c1fb172b4aee53ec140c1521ee1e21c8663c7bd0eadfde873edf84e91e4e1"
+  }
+}

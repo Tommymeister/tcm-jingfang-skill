@@ -1,0 +1,6 @@
+interface:
+  display_name: "经方多医家研习"
+  short_description: "自动选择倪海厦、李可或多医家视角，检索经典及资料并追溯证据"
+  default_prompt: "使用 $jingfang-research 比较桂枝汤与麻黄汤，并列出实际检得的经典和医家证据。"
+policy:
+  allow_implicit_invocation: true
